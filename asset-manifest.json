@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://miri-ap.github.io/csb-lhw6y/static/css/main.8ef3b745.chunk.css",
+    "main.js": "https://miri-ap.github.io/csb-lhw6y/static/js/main.6b8ade8e.chunk.js",
+    "main.js.map": "https://miri-ap.github.io/csb-lhw6y/static/js/main.6b8ade8e.chunk.js.map",
+    "runtime-main.js": "https://miri-ap.github.io/csb-lhw6y/static/js/runtime-main.f3d4b873.js",
+    "runtime-main.js.map": "https://miri-ap.github.io/csb-lhw6y/static/js/runtime-main.f3d4b873.js.map",
+    "static/js/2.94b61127.chunk.js": "https://miri-ap.github.io/csb-lhw6y/static/js/2.94b61127.chunk.js",
+    "static/js/2.94b61127.chunk.js.map": "https://miri-ap.github.io/csb-lhw6y/static/js/2.94b61127.chunk.js.map",
+    "index.html": "https://miri-ap.github.io/csb-lhw6y/index.html",
+    "static/css/main.8ef3b745.chunk.css.map": "https://miri-ap.github.io/csb-lhw6y/static/css/main.8ef3b745.chunk.css.map",
+    "static/js/2.94b61127.chunk.js.LICENSE.txt": "https://miri-ap.github.io/csb-lhw6y/static/js/2.94b61127.chunk.js.LICENSE.txt",
+    "static/media/m_logo.6c933136.png": "https://miri-ap.github.io/csb-lhw6y/static/media/m_logo.6c933136.png",
+    "static/media/search_icon.387a0080.png": "https://miri-ap.github.io/csb-lhw6y/static/media/search_icon.387a0080.png",
+    "static/media/star_selected.f6da20e3.png": "https://miri-ap.github.io/csb-lhw6y/static/media/star_selected.f6da20e3.png",
+    "static/media/star_unselected.d135ad44.png": "https://miri-ap.github.io/csb-lhw6y/static/media/star_unselected.d135ad44.png",
+    "static/media/user_icon.65e25684.png": "https://miri-ap.github.io/csb-lhw6y/static/media/user_icon.65e25684.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3d4b873.js",
+    "static/js/2.94b61127.chunk.js",
+    "static/css/main.8ef3b745.chunk.css",
+    "static/js/main.6b8ade8e.chunk.js"
+  ]
+}
